@@ -1,5 +1,5 @@
 # Bienvenide, estos son # -Primeros-pasos-GitHub-
-## Mi primera página web en clase
+## Mi primera página web
 __La página más linda de todas__ 
 
 Soy Anamarina Prieto y este es el primer experimento de página en GitHub en Taller Multimedia Transmedia.
