@@ -5,4 +5,4 @@ __La página más linda de todas__
 Soy Anamarina Prieto y este es el primer experimento de página en GitHub en Taller Multimedia Transmedia.
 
 
-<img width="200" height="auto" alt="Captura de pantalla 2026-02-03 a la(s) 1 47 03 p m" src="https://github.com/user-attachments/assets/53bd4106-2917-42db-ab5c-d4f69ace0e3f" />
+<img width="200" height="auto" alt="https://github.com/AnamainaPrieto/-Primeros-pasos-GitHub-/blob/424721a31d69510fe03ef0bfe203ca92f1399152/Hanniball.jpg" />
